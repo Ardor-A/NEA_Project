@@ -12,7 +12,7 @@ namespace MineSweeper_NEA_Project
 {
     public partial class Form1 : Form
     {
-        
+        int mineCount = 10;
         static int numbersInArrayEasy = 11;
         int[,] array = new int[numbersInArrayEasy, numbersInArrayEasy];       
         private Button btnAdd = new Button();  
@@ -62,6 +62,10 @@ namespace MineSweeper_NEA_Project
                     x += 50;
                 }
                 y += 50;
+            }
+            while ()
+            {
+
             }
 
         }
