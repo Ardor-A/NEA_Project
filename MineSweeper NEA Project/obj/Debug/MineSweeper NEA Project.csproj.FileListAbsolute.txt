@@ -1,0 +1,9 @@
+F:\Computer Science\MineSweeper NEA Project\MineSweeper NEA Project\obj\Debug\MineSweeper NEA Project.csprojResolveAssemblyReference.cache
+F:\Computer Science\MineSweeper NEA Project\MineSweeper NEA Project\obj\Debug\MineSweeper_NEA_Project.Form1.resources
+F:\Computer Science\MineSweeper NEA Project\MineSweeper NEA Project\obj\Debug\MineSweeper_NEA_Project.Properties.Resources.resources
+F:\Computer Science\MineSweeper NEA Project\MineSweeper NEA Project\obj\Debug\MineSweeper NEA Project.csproj.GenerateResource.Cache
+F:\Computer Science\MineSweeper NEA Project\MineSweeper NEA Project\bin\Debug\MineSweeper NEA Project.exe.config
+F:\Computer Science\MineSweeper NEA Project\MineSweeper NEA Project\bin\Debug\MineSweeper NEA Project.exe
+F:\Computer Science\MineSweeper NEA Project\MineSweeper NEA Project\bin\Debug\MineSweeper NEA Project.pdb
+F:\Computer Science\MineSweeper NEA Project\MineSweeper NEA Project\obj\Debug\MineSweeper NEA Project.exe
+F:\Computer Science\MineSweeper NEA Project\MineSweeper NEA Project\obj\Debug\MineSweeper NEA Project.pdb

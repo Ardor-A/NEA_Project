@@ -1,0 +1,9 @@
+F:\Computer Science\MineSweeper NEA Project\Test 1\Test 1\bin\Debug\Test 1.exe.config
+F:\Computer Science\MineSweeper NEA Project\Test 1\Test 1\bin\Debug\Test 1.exe
+F:\Computer Science\MineSweeper NEA Project\Test 1\Test 1\bin\Debug\Test 1.pdb
+F:\Computer Science\MineSweeper NEA Project\Test 1\Test 1\obj\Debug\Test 1.csprojResolveAssemblyReference.cache
+F:\Computer Science\MineSweeper NEA Project\Test 1\Test 1\obj\Debug\Test_1.Form1.resources
+F:\Computer Science\MineSweeper NEA Project\Test 1\Test 1\obj\Debug\Test_1.Properties.Resources.resources
+F:\Computer Science\MineSweeper NEA Project\Test 1\Test 1\obj\Debug\Test 1.csproj.GenerateResource.Cache
+F:\Computer Science\MineSweeper NEA Project\Test 1\Test 1\obj\Debug\Test 1.exe
+F:\Computer Science\MineSweeper NEA Project\Test 1\Test 1\obj\Debug\Test 1.pdb
